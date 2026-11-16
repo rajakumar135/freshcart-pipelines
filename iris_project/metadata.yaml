@@ -1,0 +1,2 @@
+project_type: standalone
+variables_dir: ~/.mage_data
